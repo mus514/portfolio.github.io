@@ -112,5 +112,12 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm Data Scientist with a robust foundation in mathematics and computer science. I hold a **Master’s** in **Data Science** from **HEC Montréal** and a **Bachelor’s** in **Actuarial Science** from **École d’actuariat** - Université Laval, providing me with a comprehensive background in analytics.
+
+Currently, as a **Data Engineer** intern at **Bombardier**, I specialize in optimizing ETL pipelines, I successfully reduced file migration times to Microsoft Azure from 48 to 8 minutes, showcasing my efficiency in handling complex tasks. Additionally, I played a pivotal role in developing libraries for automated ETL processes, freeing up valuable time for more strategic endeavors. My expertise extends to deploying machine learning algorithms, as demonstrated by my contribution to predicting the impact of chemical components on golf course conditions during my time at Laval University.
+
+I thrive on tackling new challenges and contributing to innovative projects. If there are opportunities that align with my skill set and expertise, I am eager to explore and contribute to the success of your organization.
+
+Let’s connect and discuss how I can bring value to your team!
+
 {style="text-align: justify;"}
