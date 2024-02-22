@@ -87,7 +87,9 @@ sections:
           location: Quebec
           date_start: '2022-04-01'
           date_end: '2022-09-31'
-          description: Data cleaning and replacement of missing values and outelyers using Pandas and Scikit-learn.
+          description: Taught electronic engineering and researched semiconductor physics.
+
+          
 
     design:
       columns: '2'
