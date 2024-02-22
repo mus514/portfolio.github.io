@@ -92,37 +92,6 @@ sections:
               * Data cleaning and replacement of missing values and outelyers using Pandas and Scikit-learn. 
               * Implementation of ML algorithms such as Radom Forest KNN, Gradient Boosting in Python and R environment to predict the impact of different chemical components on the condition of golf courses.
               * Conducting statistical inference to understand the impact of variables on the condition of golf courses such as : Regression Analysis and Hypothesis Testing
-    
-
-        - title: Data scientist searcher
-          company: Laval University
-          company_url: ''
-          company_logo: org-x
-          location: Quebec
-          date_start: '2021-04-01'
-          date_end: '2021-09-31'
-          description: |2-
-              Responsibilities include:
-              * Analyze data from various optimization projects using R and Python.
-              * Address missing data and perform data cleaning utilizing Pandas and Scikit-learn.
-              * Run optimization algorithms on Compute Canada using C++.
-              * Automate tasks using R and Python and reduce processing time that takes hours in just one click.
-          
-
-        - title: Teaching Assistant, Statistical Analysis of Actuarial Risks
-          company: Laval University
-          company_url: ''
-          company_logo: org-x
-          location: Quebec
-          date_start: '2021-01-01'
-          date_end: '2021-05-31'
-          description: |2-
-              Responsibilities include:
-              * Animate the exercise sessions.
-              * Review with the students the insufficiently assimilated material.
-              * Supervise students and offer pedagogical assistance.
-              * Correction of exams.
-
     design:
       columns: '2'
 
