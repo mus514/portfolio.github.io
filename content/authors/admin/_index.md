@@ -33,26 +33,21 @@ education:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
+
     items:
     - name: Python
       description: ''
       percent: 90
       icon: python
-      icon_pack: fab
+      icon_pack: fas
       
     items:
     - name: R
       description: ''
       percent: 90
       icon: R
-      icon_pack: fab
-
-    - name: Data Science
-      description: ''
-      percent: 90
-      icon: chart-line
       icon_pack: fas
-      
+
     - name: SQL
       description: ''
       percent: 80
@@ -62,7 +57,13 @@ skills:
     - name: C++
       description: ''
       percent: 70
-      icon: database
+      icon: c++
+      icon_pack: fas
+
+    - name: CPLEX
+      description: ''
+      percent: 90
+      icon: chart-line
       icon_pack: fas
 
   - name: Mathematic
@@ -74,11 +75,13 @@ skills:
         percent: 60
         icon: person-hiking
         icon_pack: fas
+
       - name: Cats
         description: ''
         percent: 100
         icon: cat
         icon_pack: fas
+
       - name: Photography
         description: ''
         percent: 80
