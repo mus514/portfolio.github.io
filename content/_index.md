@@ -86,8 +86,15 @@ sections:
           company_logo: org-x
           location: Quebec
           date_start: '2022-04-01'
-          date_end: '2022-09-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          date_end: '2022-09-30'
+          description: |2-
+              Responsibilities include:
+              * Automatically migrate ( ETL pipeline ) files in parquet format to Microsoft Azure using Pyspark , Python and SQL 
+              * Optimize ETLs that initially took at least 48 hours to reduce it to just 8 minutes , improving business efficiency and productivity.
+              * Developed ML algorithms predicting plant part prices, employing data analysis, feature engineering, and model optimization.
+              * Develop Python scripts for extracting data from web service APIs and loading them into databases.
+              * Developed a robust general-purpose library using Apache Spark to streamline and accelerate the creation of data processing pipelines.
+              * Implemented pipelines and SQL scripts for tracking and communicating automated migration progress via email.
     design:
       columns: '2'
 
