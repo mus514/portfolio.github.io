@@ -87,11 +87,11 @@ sections:
           location: Quebec
           date_start: '2022-04-01'
           date_end: '2022-09-31'
-          description: |
-              Responsibilities include:
+          description: 
+              Responsibilities include: |2-
               * Data cleaning and replacement of missing values and outelyers using Pandas and Scikit-learn.
               * Implementation of ML algorithms such as Radom Forest KNN, Gradient Boosting in Python and R environment to predict the impact of different chemical components on the condition of golf courses.
-              * Conducting statistical inference to understand the impact of variables on the condition of golf courses such as : Regression Analysis and Hypothesis Testing
+              * Conducting statistical inference to understand the impact of variables on the condition of golf courses such as Regression Analysis and Hypothesis Testing
 
     design:
       columns: '2'
