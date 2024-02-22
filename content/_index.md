@@ -160,7 +160,7 @@ sections:
           date_end: ''
           date_start: '2019-07-30'
           description: ''
-          icon: soa
+          company_logo: tls
           organization: SOA
           organization_url: https://www.soa.org/
           title: 'Exam P'
