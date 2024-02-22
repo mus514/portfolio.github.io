@@ -162,22 +162,23 @@ sections:
           date_start: '2019-07-30'
           description: ''
           icon: soa
-          organization: Soa
+          organization: SOA
           organization_url: https://www.soa.org/
           title: 'Exam P'
           url: ''
-        - certificate_url: https://www.edx.org
+
+        - certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/5326f5b4788529fb97f4fd87c1c103820752562b
           date_end: ''
-          date_start: '2021-01-01'
+          date_start: '2023-05-01'
           description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+          icon: datacamp
+          organization: DataCamp
+          organization_url: https://www.datacamp.com
+          title: 'GARCH Models in R,'
+
         - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          date_end: ''
+          date_start: '2023-06-01'
           description: ''
           icon: datacamp
           organization: DataCamp
