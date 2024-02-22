@@ -80,18 +80,14 @@ sections:
               * Implemented pipelines and SQL scripts for tracking and communicating automated migration progress via email.
 
               
-        - title: Data scientist searcher
+        - title: Data scientist
           company: Laval University
           company_url: ''
           company_logo: org-x
-          location: Quebec
-          date_start: '2022-04-01'
-          date_end: '2022-09-31'
-          description:
-              Responsibilities include:
-              * Data cleaning and replacement of missing values and outelyers using Pandas and Scikit-learn. 
-              * Implementation of ML algorithms such as Radom Forest KNN, Gradient Boosting in Python and R environment to predict the impact of different chemical components on the condition of golf courses.
-              * Conducting statistical inference to understand the impact of variables on the condition of golf courses such as : Regression Analysis and Hypothesis Testing
+          location: California
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
 
