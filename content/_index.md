@@ -124,7 +124,7 @@ sections:
               * Correction of exams.
 
     design:
-      columns: '4'
+      columns: '2'
 
 
 
