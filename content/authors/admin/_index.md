@@ -37,15 +37,12 @@ skills:
       - name: Python
         description: ''
         icon: python
-        icon_pack: fab
       - name: Data Science
         description: ''
         icon: chart-line
-        icon_pack: fas
       - name: SQL
         description: ''
         icon: database
-        icon_pack: fas
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
