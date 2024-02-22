@@ -176,7 +176,7 @@ sections:
           organization_url: https://www.datacamp.com
           title: 'GARCH Models in R,'
 
-        - certificate_url: https://www.datacamp.com
+        - certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/cb5bbb5fc7dd36f8bc8c99c9db36b0a97a57b3b9
           date_end: ''
           date_start: '2023-06-01'
           description: ''
