@@ -50,6 +50,7 @@ sections:
       username: admin
     design:
       columns: '1'
+
   - block: experience
     content:
       title: Experience
@@ -62,20 +63,25 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Data engineer - Intern
+          company: Bombardier
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Montreal
+          date_start: '2023-09-01'
           date_end: ''
           description: |2-
               Responsibilities include:
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Automatically migrate ( ETL pipeline ) files in parquet format to Microsoft Azure using Pyspark , Python and SQL 
+              * Optimize ETLs that initially took at least 48 hours to reduce it to just 8 minutes , improving business efficiency and productivity.
+              * Developed ML algorithms predicting plant part prices, employing data analysis, feature engineering, and model optimization.
+              * Develop Python scripts for extracting data from web service APIs and loading them into databases.
+              * Developed a robust general-purpose library using Apache Spark to streamline and accelerate the creation of data processing pipelines.
+              * Implemented pipelines and SQL scripts for tracking and communicating automated migration progress via email.
+
+              
+        - title: Data scientist
+          company: Laval University
           company_url: ''
           company_logo: org-x
           location: California
@@ -84,6 +90,10 @@ sections:
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
+
+
+
+
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -153,7 +163,7 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-      
+
   - block: portfolio
     id: projects
     content:
