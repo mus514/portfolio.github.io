@@ -39,6 +39,7 @@ skills:
       percent: 90
       icon: python
       icon_pack: fab
+      
     items:
     - name: R
       description: ''
