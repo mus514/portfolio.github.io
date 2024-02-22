@@ -143,7 +143,6 @@ sections:
 
 
 
-
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -183,7 +182,7 @@ sections:
           icon: datacamp
           organization: DataCamp
           organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          title: 'Intermediate SQL'
           url: ''
     design:
       columns: '2'
@@ -216,6 +215,8 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
+
+
 
   - block: portfolio
     id: projects
