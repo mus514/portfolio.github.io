@@ -78,6 +78,21 @@ sections:
               * Develop Python scripts for extracting data from web service APIs and loading them into databases.
               * Developed a robust general-purpose library using Apache Spark to streamline and accelerate the creation of data processing pipelines.
               * Implemented pipelines and SQL scripts for tracking and communicating automated migration progress via email.
+        
+        
+        - title: Actuarial analyst Intern
+          company: TELUS Health
+          company_url: ''
+          company_logo: tls
+          location: Quebec
+          date_start: '2022-04-01'
+          date_end: '2023-02-28'
+          description: |2-
+              Responsibilities include:
+              * Participate in the analysis and validation of annual and periodic data. 
+              * Calculate pension benefits for participants (3000), considering plan-specific calculation formulas, years of service, average salaries, and interest rates.
+              * Assess pension plan costs, including employer and employee contributions.
+              * Maintain databases (Ariel) as well as participant files.
 
               
         - title: Data scientist searcher
