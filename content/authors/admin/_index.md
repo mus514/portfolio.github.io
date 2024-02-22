@@ -39,14 +39,21 @@ skills:
       description: ''
       percent: 90
       icon: python
-      icon_pack: fas
+      icon_pack: fab
       
     items:
     - name: R
       description: ''
       percent: 90
-      icon: R
+      icon: r
       icon_pack: fas
+
+    items:
+    - name: Python
+      description: ''
+      percent: 90
+      icon: python
+      icon_pack: fab
 
     - name: SQL
       description: ''
@@ -57,13 +64,13 @@ skills:
     - name: C++
       description: ''
       percent: 70
-      icon: c++
+      icon: C++
       icon_pack: fas
 
     - name: CPLEX
       description: ''
       percent: 90
-      icon: chart-line
+      icon: ibm
       icon_pack: fas
 
   - name: Mathematic
