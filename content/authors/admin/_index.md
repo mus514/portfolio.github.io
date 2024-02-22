@@ -32,7 +32,8 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  items:
+  - name: Technical
+    items:
       - name: Python
         description: ''
         percent: 80
