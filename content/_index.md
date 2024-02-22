@@ -89,12 +89,40 @@ sections:
           date_end: '2022-09-30'
           description: |2-
               Responsibilities include:
-              * Automatically migrate ( ETL pipeline ) files in parquet format to Microsoft Azure using Pyspark , Python and SQL 
-              * Optimize ETLs that initially took at least 48 hours to reduce it to just 8 minutes , improving business efficiency and productivity.
-              * Developed ML algorithms predicting plant part prices, employing data analysis, feature engineering, and model optimization.
-              * Develop Python scripts for extracting data from web service APIs and loading them into databases.
-              * Developed a robust general-purpose library using Apache Spark to streamline and accelerate the creation of data processing pipelines.
-              * Implemented pipelines and SQL scripts for tracking and communicating automated migration progress via email.
+              * Data cleaning and replacement of missing values and outelyers using Pandas and Scikit-learn. 
+              * Implementation of ML algorithms such as Radom Forest KNN, Gradient Boosting in Python and R environment to predict the impact of different chemical components on the condition of golf courses.
+              * Conducting statistical inference to understand the impact of variables on the condition of golf courses such as : Regression Analysis and Hypothesis Testing
+    
+
+        - title: Data scientist searcher
+          company: Laval University
+          company_url: ''
+          company_logo: org-x
+          location: Quebec
+          date_start: '2021-04-01'
+          date_end: '2021-09-30'
+          description: |2-
+              Responsibilities include:
+              * Analyze data from various optimization projects using R and Python.
+              * Address missing data and perform data cleaning utilizing Pandas and Scikit-learn.
+              * Run optimization algorithms on Compute Canada using C++.
+              * Automate tasks using R and Python and reduce processing time that takes hours in just one click.
+          
+
+        - title: Teaching Assistant, Statistical Analysis of Actuarial Risks
+          company: Laval University
+          company_url: ''
+          company_logo: org-x
+          location: Quebec
+          date_start: '2021-01-01'
+          date_end: '2021-05-30'
+          description: |2-
+              Responsibilities include:
+              * Animate the exercise sessions.
+              * Review with the students the insufficiently assimilated material.
+              * Supervise students and offer pedagogical assistance.
+              * Correction of exams.
+
     design:
       columns: '2'
 
