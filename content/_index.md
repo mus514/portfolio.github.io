@@ -164,7 +164,7 @@ sections:
           icon: soa
           organization: Soa
           organization_url: https://www.soa.org/
-          title: Exam P
+          title: 'Exam P'
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
