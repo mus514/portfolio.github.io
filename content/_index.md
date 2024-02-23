@@ -44,39 +44,13 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
-  - block: experience
+  - block: skills
     content:
-      title: Experience
-      # Date format for experience
-      #   Refer to https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Data engineer - Intern
-          company: Bombardier
-          company_url: ''
-          company_logo: org-gc
-          location: Montreal
-          date_start: '2023-09-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
-              * Build ETL pipeline using PySpark and migrate files in parquet format to Microsoft Azure
-              * Developed ML algorithms predicting plant part prices, employing data analysis, feature engineering, and model optimization.
-              * Develop Python scripts for extracting data from web service APIs and loading them into databases.
-              * Implemented pipelines and SQL scripts for tracking and communicating automated migration progress via email.
-
-              Achievements:
-              * Optimize ETLs that initially took at least 48 hours to reduce it to just 8 minutes , improving business efficiency and productivity.
-              * Developed a robust general-purpose library using Apache Spark to streamline and accelerate the creation of data processing pipelines.
-              * Refactor the transformation process from using Pandas to PySpark for process optimization
-              * Convert SQL to PySpark code for enhanced flexibility and leverage Spark's distributed computing capabilities, contributing to optimized data workflows.
+      title: Skills
+      text: ''
+      # Choose a user to display skills from (a folder name within `content/authors/`)
     design:
-      columns: '2'
+      columns: '1'
 
 
   - block: experience
