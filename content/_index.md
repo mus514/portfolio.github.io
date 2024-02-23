@@ -47,8 +47,12 @@ sections:
   - block: skills
     content:
       title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
+      description: |2-
+      * Python
+      * R
+      * C++
+
+
     design:
       columns: '1'
 
