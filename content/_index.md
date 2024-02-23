@@ -47,10 +47,11 @@ sections:
   - block: skills
     content:
       title: Skills
-      description: |2-
-      * Python
-      * R
-      * C++
+      items:
+        description: |2-
+        * Python
+        * R
+        * C++
 
 
     design:
