@@ -46,7 +46,7 @@ sections:
 
   - block: experience
     content:
-      title: Skills
+      title: Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -56,9 +56,25 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        * Python 
-        * R
-        
+        - title: Data engineer - Intern
+          company: Bombardier
+          company_url: ''
+          company_logo: org-gc
+          location: Montreal
+          date_start: '2023-09-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+              * Build ETL pipeline using PySpark and migrate files in parquet format to Microsoft Azure
+              * Developed ML algorithms predicting plant part prices, employing data analysis, feature engineering, and model optimization.
+              * Develop Python scripts for extracting data from web service APIs and loading them into databases.
+              * Implemented pipelines and SQL scripts for tracking and communicating automated migration progress via email.
+
+              Achievements:
+              * Optimize ETLs that initially took at least 48 hours to reduce it to just 8 minutes , improving business efficiency and productivity.
+              * Developed a robust general-purpose library using Apache Spark to streamline and accelerate the creation of data processing pipelines.
+              * Refactor the transformation process from using Pandas to PySpark for process optimization
+              * Convert SQL to PySpark code for enhanced flexibility and leverage Spark's distributed computing capabilities, contributing to optimized data workflows.
     design:
       columns: '2'
 
