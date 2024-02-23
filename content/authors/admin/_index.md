@@ -51,7 +51,7 @@ skills:
 
       - name: R
         description: ''
-        icon: r
+        icon: 
         icon_pack: fab
 
       - name: C++
@@ -65,22 +65,20 @@ skills:
         icon_pack: fab
 
   - name: Tools
-    color: '#eeac02'
-    color_border: '#f0bf23'
     items:
       - name: Microsoft Azure
         description: ''
-        icon: microsoft
+        icon: 
         icon_pack: fas
 
       - name: DataBricks
         description: ''
-        icon: databricks
+        icon: 
         icon_pack: fas
 
       - name: Synaspse
         description: ''
-        icon: synapse
+        icon: 
         icon_pack: fas
 
 
