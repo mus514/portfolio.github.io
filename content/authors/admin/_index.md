@@ -63,3 +63,8 @@ I love taking on new challenges and getting involved in innovative projects. If 
 Let's connect and chat about how I can bring value to your team!
 
 {style="text-align: justify;"}
+
+
+## Skills :
+
+I'm handsom 
