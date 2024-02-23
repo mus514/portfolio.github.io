@@ -57,7 +57,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Skills
-          company: ''
+          company: 'A'
           company_url: ''
           company_logo: org-gc
           location: Montreal
@@ -77,7 +77,7 @@ sections:
               * Convert SQL to PySpark code for enhanced flexibility and leverage Spark's distributed computing capabilities, contributing to optimized data workflows.
 
         - title: Tools
-          company: ''
+          company: 'B'
           company_url: ''
           company_logo: org-gc
           location: Montreal
