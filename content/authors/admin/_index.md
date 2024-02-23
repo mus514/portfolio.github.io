@@ -36,7 +36,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'bouhsen.m@gmail.com'
   - icon: github
     icon_pack: fab
     link: https://github.com/mus514
