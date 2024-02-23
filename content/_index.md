@@ -65,13 +65,16 @@ sections:
           date_end: ''
           description: |2-
               Responsibilities include:
-              * Automatically migrate ( ETL pipeline ) files in parquet format to Microsoft Azure using Pyspark , Python and SQL 
-              * Optimize ETLs that initially took at least 48 hours to reduce it to just 8 minutes , improving business efficiency and productivity.
+              * Build ETL pipeline using PySpark and migrate files in parquet format to Microsoft Azure
               * Developed ML algorithms predicting plant part prices, employing data analysis, feature engineering, and model optimization.
               * Develop Python scripts for extracting data from web service APIs and loading them into databases.
-              * Developed a robust general-purpose library using Apache Spark to streamline and accelerate the creation of data processing pipelines.
               * Implemented pipelines and SQL scripts for tracking and communicating automated migration progress via email.
-        
+
+              Achievements:
+              * Optimize ETLs that initially took at least 48 hours to reduce it to just 8 minutes , improving business efficiency and productivity.
+              * Developed a robust general-purpose library using Apache Spark to streamline and accelerate the creation of data processing pipelines.
+              * Refactor the transformation process from using Pandas to PySpark for process optimization
+              * Convert SQL to PySpark code for enhanced flexibility and leverage Spark's distributed computing capabilities, contributing to optimized data workflows.
         
         - title: Actuarial analyst Intern
           company: TELUS Health
@@ -82,12 +85,10 @@ sections:
           date_end: '2023-02-28'
           description: |2-
               Responsibilities include:
-              * Participate in the analysis and validation of annual and periodic data. 
-              * Calculate pension benefits for participants (3000), considering plan-specific calculation formulas, years of service, average salaries, and interest rates.
-              * Assess pension plan costs, including employer and employee contributions.
-              * Maintain databases (Ariel) as well as participant files.
-
-              
+              * Contribute to the examination and verification of annual and periodic data. 
+              * Compute pension benefits for 3000 participants, incorporating plan-specific formulas, years of service, average salaries, and interest rates.
+              * Manage databases, specifically utilizing Ariel, and oversee participant files for accuracy and completeness.
+             
         - title: Data scientist searcher
           company: Laval University
           company_url: ''
@@ -97,9 +98,9 @@ sections:
           date_end: '2022-09-30'
           description: |2-
               Responsibilities include:
-              * Data cleaning and replacement of missing values and outelyers using Pandas and Scikit-learn. 
-              * Implementation of ML algorithms such as Radom Forest KNN, Gradient Boosting in Python and R environment to predict the impact of different chemical components on the condition of golf courses.
-              * Conducting statistical inference to understand the impact of variables on the condition of golf courses such as : Regression Analysis and Hypothesis Testing
+              * Employ Pandas and Scikit-learn for thorough data cleaning, addressing missing values, and handling outliers. 
+              *Conduct statistical inference, employing Regression Analysis and Hypothesis Testing, to gain insights into the influence of variables on the overall condition of golf courses.
+              * Implement machine learning algorithms, including Random Forest, KNN, and Gradient Boosting, utilizing both Python and R environments. These models predict the impact of various chemical components on the condition of golf courses.
     
 
         - title: Data scientist searcher
@@ -111,7 +112,7 @@ sections:
           date_end: '2021-09-30'
           description: |2-
               Responsibilities include:
-              * Analyze data from various optimization projects using R and Python.
+              * Conduct data analysis for various optimization algorithms using both R and Python.
               * Address missing data and perform data cleaning utilizing Pandas and Scikit-learn.
               * Run optimization algorithms on Compute Canada using C++.
               * Automate tasks using R and Python and reduce processing time that takes hours in just one click.
@@ -139,7 +140,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Certificate'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
