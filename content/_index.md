@@ -49,9 +49,9 @@ sections:
       title: Skills
       items:
         description: |2-
-        * Python
-        * R
-        * C++
+          * Python
+          * R
+          * C++
 
 
     design:
