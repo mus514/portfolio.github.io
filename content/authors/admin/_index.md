@@ -51,6 +51,41 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 
+
+  skills:
+  - name: Technical
+    items:
+    - name: Python
+      description: ''
+      icon: python
+      icon_pack: fab
+    - name: Data Science
+      description: ''
+      icon: chart-line
+      icon_pack: fas
+    - name: SQL
+      description: ''
+      icon: database
+      icon_pack: fas
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Hiking
+        description: ''
+        icon: person-hiking
+        icon_pack: fas
+      - name: Cats
+        description: ''
+        icon: cat
+        icon_pack: fas
+      - name: Photography
+        description: ''
+        icon: camera-retro
+        icon_pack: fas
+        
+
+
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
