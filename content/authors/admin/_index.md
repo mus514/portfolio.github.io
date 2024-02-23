@@ -38,29 +38,49 @@ skills:
         description: ''
         icon: python
         icon_pack: fab
-      - name: Data Science
+
+      - name: Probability and statistics
         description: ''
         icon: chart-line
         icon_pack: fas
+
       - name: SQL
         description: ''
         icon: database
         icon_pack: fas
-  - name: Hobbies
+
+      - name: R
+        description: ''
+        icon: r
+        icon_pack: fab
+
+      - name: C++
+        description: ''
+        icon: c++
+        icon_pack: fab
+
+      - name: CPLEX
+        description: ''
+        icon: ibm
+        icon_pack: fab
+
+  - name: Tools
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Microsoft Azure
         description: ''
-        icon: person-hiking
+        icon: microsoft
         icon_pack: fas
-      - name: Cats
+
+      - name: DataBricks
         description: ''
-        icon: cat
+        icon: databricks
         icon_pack: fas
-      - name: Photography
+
+      - name: Synaspse
         description: ''
-        icon: camera-retro
+        icon: synapse
         icon_pack: fas
 
 
