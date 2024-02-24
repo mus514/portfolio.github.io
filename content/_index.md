@@ -209,6 +209,7 @@ sections:
         - name: All
           tag: '*'
         - name: Data Engineering
+          link: uploads/resume.pdf
           tag: Data Engineering
         - name: Machine Learning
           tag: Machine Learning
