@@ -6,7 +6,7 @@ tags:
 date: "2023-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: uploads/resume.pdf
+external_link: uploads/project.html
 
 image:
   caption: Photo by Toa Heftiba on Unsplash
