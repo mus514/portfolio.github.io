@@ -1,32 +1,20 @@
 ---
 title: Financial Data Intelligence Suite
-summary: An example of using the in-built project page.
+summary: This project revolves around the automated retrieval of financial data through APIs, with daily updates scheduled using crontab on a local machine. The collected data is then transferred to Azure Data Storage in its raw format. Triggering Azure Data Factory initiates the execution of scripts in Databricks, focusing on data cleaning and transformation to generate meaningful datasets. The resulting cleansed data is subsequently employed for visualization purposes and predicting stock prices, forming a comprehensive pipeline for efficient financial data analysis and decision-making.
 tags:
   - Data Engineering
-date: '2023-01-01-27T00:00:00Z'
+date: '2024-01-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
 
 ---
 
