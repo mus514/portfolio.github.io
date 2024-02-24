@@ -208,10 +208,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Financial Data Intelligence Suite
+          tag: Data Engineering
+        - name: Machine Learning
+          tag: A STUDY OF BANK CUSTOMER CHURN
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
