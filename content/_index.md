@@ -209,9 +209,9 @@ sections:
         - name: All
           tag: '*'
         - name: Data Engineering
-          tag: Financial Data Intelligence Suite
+          tag: Data Engineering
         - name: Machine Learning
-          tag: A STUDY OF BANK CUSTOMER CHURN
+          tag: Machine Learning
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
