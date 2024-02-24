@@ -1,8 +1,7 @@
 ---
 title: Financial Data Intelligence Suite
 summary: An example of using the in-built project page.
-tags:
-  - Data Engineering
+tags: Data Engineering
 date: '2023-01-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
