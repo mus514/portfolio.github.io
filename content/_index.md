@@ -208,8 +208,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Financial Data Intelligence Suite
-          tag: Data Engineering
+        - name: Data Engineering
+          tag: Financial Data Intelligence Suite
         - name: Machine Learning
           tag: A STUDY OF BANK CUSTOMER CHURN
     design:
