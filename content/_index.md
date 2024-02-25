@@ -220,12 +220,4 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
 
-        
-  - block: dashboard
-    id: dashboard
-    content:
-      title: Dashboards
-      filters:
-        folders:
-          - dashboards
 ---
