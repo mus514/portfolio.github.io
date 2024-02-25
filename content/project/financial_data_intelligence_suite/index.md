@@ -1,7 +1,6 @@
 ---
 title: Financial Data Intelligence Suite
-summary: This project revolves around the automated retrieval of financial data through APIs, with daily updates scheduled using crontab on a local machine. The collected data is then transferred to Azure Data Storage in its raw format. Triggering Azure Data Factory initiates the execution of scripts in Databricks, focusing on data cleaning and transformation to generate meaningful datasets. The resulting cleansed data is subsequently employed for visualization purposes and predicting stock prices, forming a comprehensive pipeline for efficient financial data analysis and decision-making.
-`Link to Tableau:` [](https://public.tableau.com/app/profile/mustapha.bouhsen/viz/Stockprice_17081222957660/Dashboard1)
+summary: This project revolves around the automated retrieval of financial data through APIs, with daily updates scheduled using crontab on a local machine. The collected data is then transferred to Azure Data Storage in its raw format. Triggering Azure Data Factory initiates the execution of scripts in Databricks, focusing on data cleaning and transformation to generate meaningful datasets. The resulting cleansed data is subsequently employed for visualization purposes and predicting stock prices, forming a comprehensive pipeline for efficient financial data analysis and decision-making. `Link to Tableau:` [](https://public.tableau.com/app/profile/mustapha.bouhsen/viz/Stockprice_17081222957660/Dashboard1)
 
 tags:
   - Data Engineering
