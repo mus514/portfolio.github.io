@@ -219,5 +219,5 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-
+      
 ---
