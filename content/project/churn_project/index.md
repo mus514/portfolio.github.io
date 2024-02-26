@@ -11,7 +11,3 @@ date: "2023-01-01T00:00:00Z"
 image:
   focal_point: Smart
 ---
-
-## link
-
-[link]([https://mus514.github.io/Bank-customer-churn/)
