@@ -29,58 +29,6 @@ education:
       institution: École d'actuariat - Université Laval
       year: 2022
 
-# Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        icon: python
-        icon_pack: fab
-
-      - name: Probability and statistics
-        description: ''
-        icon: chart-line
-        icon_pack: fas
-
-      - name: SQL
-        description: ''
-        icon: database
-        icon_pack: fas
-
-      - name: R
-        description: ''
-        icon: 
-        icon_pack: fab
-
-      - name: C++
-        description: ''
-        icon: c++
-        icon_pack: fab
-
-      - name: CPLEX
-        description: ''
-        icon: ibm
-        icon_pack: fab
-
-  - name: Tools
-    items:
-      - name: Microsoft Azure
-        description: ''
-        icon: 
-        icon_pack: fas
-
-      - name: DataBricks
-        description: ''
-        icon: 
-        icon_pack: fas
-
-      - name: Synaspse
-        description: ''
-        icon: 
-        icon_pack: fas
-
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
