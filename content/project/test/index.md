@@ -3,7 +3,7 @@ title: Churn Models
 summary: Just a test
 
 tags:
-  - Data Engineering
+  - Machine Learning
 date: '2024-01-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
