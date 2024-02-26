@@ -64,4 +64,27 @@ I love taking on new challenges and getting involved in innovative projects. If 
 
 Let's connect and chat about how I can bring value to your team!
 
+
+# Skills
+
+## Technical Skills
+- **Programming Languages:** Python, Java, JavaScript
+- **Web Development:** HTML, CSS, React
+- **Database Management:** SQL, MongoDB
+- **Version Control:** Git
+
+## Soft Skills
+- **Communication:** Excellent written and verbal communication
+- **Teamwork:** Collaborative and adaptable team player
+- **Problem Solving:** Strong analytical and problem-solving skills
+
+## Certifications
+- **AWS Certified Developer - Associate**
+- **Certified ScrumMaster (CSM)**
+
+## Additional Skills
+- **Data Analysis:** Pandas, NumPy
+- **UI/UX Design:** Figma, Adobe XD
+- **Project Management:** Agile methodologies
+
 {style="text-align: justify;"}
