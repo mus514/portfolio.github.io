@@ -30,6 +30,49 @@ education:
       year: 2022
 
 
+
+
+skills:
+- items:
+  - description: ""
+    icon: python
+    icon_pack: fab
+    name: Python
+    percent: 80
+  - description: ""
+    icon: chart-line
+    icon_pack: fas
+    name: Data Science
+    percent: 100
+  - description: ""
+    icon: database
+    icon_pack: fas
+    name: SQL
+    percent: 40
+  name: Technical
+- color: '#eeac02'
+  color_border: '#f0bf23'
+  items:
+  - description: ""
+    icon: person-hiking
+    icon_pack: fas
+    name: Hiking
+    percent: 60
+  - description: ""
+    icon: cat
+    icon_pack: fas
+    name: Cats
+    percent: 100
+  - description: ""
+    icon: camera-retro
+    icon_pack: fas
+    name: Photography
+    percent: 80
+  name: Hobbies
+
+  
+
+
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
