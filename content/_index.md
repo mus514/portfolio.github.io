@@ -100,7 +100,7 @@ sections:
           description: |2-
               Responsibilities include:
               * Employ Pandas and Scikit-learn for thorough data cleaning, addressing missing values, and handling outliers. 
-              *Conduct statistical inference, employing Regression Analysis and Hypothesis Testing, to gain insights into the influence of variables on the overall condition of golf courses.
+              * Conduct statistical inference, employing Regression Analysis and Hypothesis Testing, to gain insights into the influence of variables on the overall condition of golf courses.
               * Implement machine learning algorithms, including Random Forest, KNN, and Gradient Boosting, utilizing both Python and R environments. These models predict the impact of various chemical components on the condition of golf courses.
     
 
