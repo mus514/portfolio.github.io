@@ -1,6 +1,6 @@
 ---
-title: A STUDY OF BANK CUSTOMER CHURN
-summary: Just a test
+title: A STUDY OF BANK CUSTOMER CHURN (in progress)
+summary: Implementing a churn prediction project in a bank involves leveraging machine learning for enhanced customer retention and revenue preservation. The inclusion of data analysis and statistical tests adds robustness to the project, providing a more precise understanding of customer behavior.
 
 tags:
   - Machine Learning
