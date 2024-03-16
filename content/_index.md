@@ -57,7 +57,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Data engineer - Intern
+        - title: Data engineer
           company: Bombardier
           company_url: ''
           company_logo: org-gc
@@ -77,7 +77,7 @@ sections:
               * Refactor the transformation process from using Pandas to PySpark for process optimization
               * Convert SQL to PySpark code for enhanced flexibility and leverage Spark's distributed computing capabilities, contributing to optimized data workflows.
         
-        - title: Actuarial analyst Intern
+        - title: Actuarial analyst
           company: TELUS Health
           company_url: ''
           company_logo: tls
@@ -89,34 +89,24 @@ sections:
               * Contribute to the examination and verification of annual and periodic data. 
               * Compute pension benefits for 3000 participants, incorporating plan-specific formulas, years of service, average salaries, and interest rates.
               * Manage databases, specifically utilizing Ariel, and oversee participant files for accuracy and completeness.
-             
-        - title: Data scientist searcher
-          company: Laval University
-          company_url: ''
-          company_logo: org-x
-          location: Quebec
-          date_start: '2022-04-01'
-          date_end: '2022-09-30'
-          description: |2-
-              Responsibilities include:
-              * Employ Pandas and Scikit-learn for thorough data cleaning, addressing missing values, and handling outliers.
-              * Conduct statistical inference, employing Regression Analysis and Hypothesis Testing, to gain insights into the influence of variables on the overall condition of golf courses.
-              * Implement machine learning algorithms, including Random Forest, KNN, and Gradient Boosting, utilizing both Python and R environments. These models predict the impact of various chemical components on the condition of golf courses.
-    
 
         - title: Data scientist searcher
           company: Laval University
           company_url: ''
           company_logo: org-x
           location: Quebec
-          date_start: '2021-04-01'
-          date_end: '2021-09-30'
+          date_start: '2021-05-01'
+          date_end: '2022-09-30'
           description: |2-
               Responsibilities include:
+              * Employ Pandas and Scikit-learn for thorough data cleaning, addressing missing values, and handling outliers.
+              * Conduct statistical inference, employing Regression Analysis and Hypothesis Testing, to gain insights into the influence of variables on the overall condition of golf courses.
+              * Implement machine learning algorithms, including Random Forest, KNN, and Gradient Boosting, utilizing both Python and R environments. These models predict the impact of various chemical components on the condition of golf courses.
               * Conduct data analysis for various optimization algorithms using both R and Python.
               * Address missing data and perform data cleaning utilizing Pandas and Scikit-learn.
               * Run optimization algorithms on Compute Canada using C++.
-              * Automate tasks using R and Python and reduce processing time that takes hours in just one click.
+              * Analyzed optimization algorithms, producing statistical improvements.
+              * Developed automated data processing workflows using R and Python, significantly reducing processing time from hours to minutes.
           
 
         - title: Teaching Assistant, Statistical Analysis of Actuarial Risks
