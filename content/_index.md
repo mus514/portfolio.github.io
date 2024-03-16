@@ -90,7 +90,7 @@ sections:
               * Compute pension benefits for 3000 participants, incorporating plan-specific formulas, years of service, average salaries, and interest rates.
               * Manage databases, specifically utilizing Ariel, and oversee participant files for accuracy and completeness.
 
-        - title: Data scientist searcher
+        - title: Data scientist
           company: Laval University
           company_url: ''
           company_logo: org-x
